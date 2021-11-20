@@ -7,3 +7,4 @@ data1 = data[data['CONTRACTOR']=='Umbrella, Inc']
 data2 = data1[data1['STATUS']=='OK']
 Total = data2['SUM'].sum()
 print(Total)
+# rjvvurveruh
