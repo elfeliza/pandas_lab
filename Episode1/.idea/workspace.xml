@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9a322cb-e191-4bd4-9940-5cf8fe0d34de" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandas21.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pandas22.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../transactions.csv" beforeDir="false" />
-    </list>
+    <list default="true" id="b9a322cb-e191-4bd4-9940-5cf8fe0d34de" name="Default Changelist" comment="Test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +57,37 @@
       <option name="presentableId" value="Default" />
       <updated>1637436439546</updated>
     </task>
+    <task id="LOCAL-00001" summary="Reformat project">
+      <created>1637436591691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637436591691</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1637436712505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637436712505</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Reformat project" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
